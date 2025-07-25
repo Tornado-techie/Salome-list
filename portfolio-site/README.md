@@ -1,1 +1,0 @@
-# Tornado-techie.github.io
